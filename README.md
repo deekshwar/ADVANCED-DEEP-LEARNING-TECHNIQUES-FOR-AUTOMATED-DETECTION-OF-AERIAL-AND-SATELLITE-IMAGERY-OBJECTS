@@ -1,4 +1,4 @@
-# 🛰️ Advanced Deep Learning for Aerial & Satellite Image Object Detection
+# 🛰️ Advanced Deep Learning for Aerial & Satellite Image Object Detection (AeroVision-AI)
 
 This project focuses on applying advanced deep learning techniques to automatically detect objects from aerial and satellite imagery. It leverages powerful Convolutional Neural Network (CNN) architectures such as ManualNet, Xception, and DenseNet for accurate image classification and detection.
 
